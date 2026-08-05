@@ -1,4 +1,4 @@
-# chalkdeck --- author: FERGOUS Abdelhak 
+# chalkdeck
 
 
 Classroom-styled slides for Typst. The backdrops are **drawn, not
